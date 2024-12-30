@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shoaib Khan
 - 👀 I’m Microsoft Certified Business Intelligence Data Analyst
 - 💞️ I love transforming data into meaningful visualization.
-- ![ChrisEvansFoksrunGIF](https://github.com/user-attachments/assets/117419cc-0e01-4d4f-957c-9fbeef2866d9)
-
+- 🎓 MBA Graduate - GPA 4.0
 - 📫 Reach out to me @ +1(773)751-9594
 
 See the full Healthcare Analysis dashboard here - [App Powerbi Link](https://app.powerbi.com/reportEmbed?reportId=6ba35d2a-c376-4c8c-81c7-37cab0e9efdc&autoAuth=true&ctid=52d48b4c-a96a-4957-8557-71bd33686f3a)
