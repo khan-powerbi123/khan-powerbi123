@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shoaib Khan
-- 👀 I’m interested in Data Analysis using PowerBI  
+- 👀 I’m Microsoft Certified Business Intelligence Data Analyst
 - 💞️ I’m looking to collaborate with new projects
 - 📫 Reach out to me @ +1(773)751-9594
 
