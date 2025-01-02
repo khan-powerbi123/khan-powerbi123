@@ -8,7 +8,7 @@ See the full Healthcare Analysis dashboard here - [App Powerbi Link](https://app
 )
 
 Healthcare Provider Analysis ![image](https://github.com/user-attachments/assets/479ddd8c-4a12-4498-81bb-33108d608513)
-Healthcare Financial Analysis ![image](https://github.com/user-attachments/assets/6520330c-6378-4e1e-bba9-dbd8980bcaa1)
+Healthcare Financial Analysis ![image](https://github.com/user-attachments/assets/d0fe0cf3-4fa9-4975-8b84-339e19d86241)
 Healthcare Trend Analysis ![image](https://github.com/user-attachments/assets/ca7de695-cd77-4b6b-99d8-37e49712a90b)
 
 
