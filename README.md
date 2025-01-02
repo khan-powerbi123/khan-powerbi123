@@ -7,9 +7,9 @@
 See the full Healthcare Analysis dashboard here - [App Powerbi Link](https://app.powerbi.com/reportEmbed?reportId=6ba35d2a-c376-4c8c-81c7-37cab0e9efdc&autoAuth=true&ctid=52d48b4c-a96a-4957-8557-71bd33686f3a
 )
 
-Healthcare Provider Analysis ![image](https://github.com/user-attachments/assets/479ddd8c-4a12-4498-81bb-33108d608513)
+Healthcare Provider Analysis ![image](https://github.com/user-attachments/assets/68f9ee18-ad5c-4a8c-a1ba-1f09162b7444)
 Healthcare Financial Analysis ![image](https://github.com/user-attachments/assets/d0fe0cf3-4fa9-4975-8b84-339e19d86241)
-Healthcare Trend Analysis ![image](https://github.com/user-attachments/assets/ca7de695-cd77-4b6b-99d8-37e49712a90b)
+Healthcare Trend Analysis ![image](https://github.com/user-attachments/assets/9493e175-98f5-48ff-8f7e-ea1a16c0a46e)
 
 
 See the full Sales Analysis dashboard here - [App Powerbi Link](https://app.powerbi.com/reportEmbed?reportId=0899fff0-0cf6-41a2-9717-56ddbd4462e4&autoAuth=true&ctid=52d48b4c-a96a-4957-8557-71bd33686f3a)
