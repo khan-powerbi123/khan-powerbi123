@@ -17,7 +17,7 @@
 ### 🛒 [Retail Sales Performance Dashboard](https://github.com/khan-powerbi123/retail-sales-performance-dashboard)
 *Tracks total sales, cost, profit %, shipment trends, and salesperson performance.*
 
-### 💰 [Finance KPI & Variance Trend Dashboard](https://github.com/khan-powerbi123/finance-kpi-trend-dashboard)
+### 💰 [Manufacturing Finance KPI & Variance Trend Dashboard](https://github.com/khan-powerbi123/finance-kpi-trend-dashboard)
 *Compares target vs actual performance, highlights variance, and visualizes monthly/quarterly patterns.*
 
 ---
