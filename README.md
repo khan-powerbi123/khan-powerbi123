@@ -6,6 +6,3 @@
 
 📂 Explore my featured dashboards below or connect with me on LinkedIn  
 📧 Reach me: shoaibkhan22@live.com
-
-
-![image](https://github.com/user-attachments/assets/9ff278d7-ce47-4800-bd7a-0b86c7782c42)
