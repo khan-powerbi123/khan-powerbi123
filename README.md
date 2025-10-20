@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Shoaib Khan
-- 👀 I’m Microsoft Certified Business Intelligence Data Analyst
-- 💞️ I love transforming data into meaningful visualization.
-- 🎓 MBA Graduate - GPA 4.0
-- 📫 Reach out to me @ +1(773)751-9594
+👋 Hi, I'm Shoaib Khan  
+🎯 Microsoft Certified Power BI & Business Intelligence Data Analyst  
+📊 Skilled in SQL | DAX | Python | ETL | Data Modeling | Visualization  
+🏢 Experienced in Insurance, Healthcare, and IT Service Analytics  
+🎓 MBA Graduate | GPA 4.0  
+
+📂 Explore my featured dashboards below or connect with me on LinkedIn  
+📧 Reach me: shoaibkhan22@live.com
+
 
 See the full Healthcare Analysis dashboard here - [App Powerbi Link](https://app.powerbi.com/reportEmbed?reportId=6ba35d2a-c376-4c8c-81c7-37cab0e9efdc&autoAuth=true&ctid=52d48b4c-a96a-4957-8557-71bd33686f3a
 )
