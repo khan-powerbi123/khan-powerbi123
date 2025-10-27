@@ -12,7 +12,8 @@
 ## 📊 Featured Power BI Dashboards
 
 ### 💼 [Salesforce Revenue Insight – Dynamic Row Level Security (RLS)](https://github.com/khan-powerbi123/Salesforce-Revenue-Insight-Dynamic-RLS)
-*Demonstrates data modeling, DAX-based role configuration, RLS validation, and Power BI App deployment workflow.*
+*Analyzes Salesforce revenue by industry and account type with **Dynamic Row-Level Security (RLS)** for user-specific visibility. Demonstrates data modeling, DAX role setup, validation, and Power BI App deployment workflow.*
+
 
 ### 🏥 [Healthcare Finance & Provider KPI Dashboard](https://github.com/khan-powerbi123/healthcare-finance-provider-dashboard)
 *Analyzes billing, patient load, and treatment cost metrics with dark/light mode visuals.*
