@@ -2,7 +2,7 @@
 🎯 Microsoft Certified Power BI & Business Intelligence Data Analyst  
 📊 Skilled in SQL | DAX | Python | ETL | Data Modeling | Visualization  
 🏢 Experienced in Insurance, Healthcare, and IT Service Analytics  
-🎓 MBA Graduate | GPA 4.0  
+🎓 MBA Graduate | GPA 3.8  
 
 📂 Explore my featured dashboards below or connect with me on [LinkedIn](https://www.linkedin.com/in/shoaibkhan07/)  
 📧 Reach me: shoaibkhan22@live.com
@@ -10,6 +10,10 @@
 ---
 
 ## 📊 Featured Power BI Dashboards
+
+### 💼 [Salesforce Revenue Insight – Dynamic Row Level Security (RLS)](https://github.com/khan-powerbi123/Salesforce-Revenue-Insight-Dynamic-RLS)
+*Power BI dashboard integrated with Salesforce data to analyze revenue by industry and account type, implementing **Dynamic Row-Level Security (RLS)** for personalized user access.*  
+📊 *Demonstrates data modeling, DAX-based role configuration, RLS validation, and Power BI App deployment workflow.*
 
 ### 🏥 [Healthcare Finance & Provider KPI Dashboard](https://github.com/khan-powerbi123/healthcare-finance-provider-dashboard)
 *Analyzes billing, patient load, and treatment cost metrics with dark/light mode visuals.*
