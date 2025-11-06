@@ -11,6 +11,10 @@
 
 ## 📊 Featured Power BI Dashboards
 
+### ⚙️ [Manufacturing Operations Forecasting Dashboard (Inspired by Regal Rexnord)](https://github.com/khan-powerbi123/Manufacturing-Operations-Forecasting-Dashboard-inspired-by-Regal-Rexnord)
+*End-to-end Power BI dashboard inspired by Regal Rexnord’s manufacturing KPIs and business structure. Analyzes financial performance, shipment operations, and forecast accuracy using SQL and DAX-driven measures.*
+
+
 ### 💼 [Salesforce Revenue Insight – Dynamic Row Level Security (RLS)](https://github.com/khan-powerbi123/Salesforce-Revenue-Insight-Dynamic-RLS)
 *Analyzes Salesforce revenue by industry and account type with **Dynamic Row-Level Security (RLS)** for user-specific visibility. Demonstrates data modeling, DAX role setup, validation, and Power BI App deployment workflow.*
 
